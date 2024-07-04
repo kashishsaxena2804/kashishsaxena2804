@@ -16,7 +16,9 @@
   <a href="https://www.discordapp.com/users/kashishsaxena"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="mailto:kashish.saxena1306@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
-
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div>
+  
 ```py
 import React from 'react';
 
@@ -56,6 +58,7 @@ class MernStackDeveloper extends React.Component {
 export default MernStackDeveloper;
 
 ```
+</div>
 
 <h1 align="center">
   <img height="40px" src="https://img.shields.io/badge/-My Tech Stack-faebee?&style=for-the-badge&logoWidth=50" />
