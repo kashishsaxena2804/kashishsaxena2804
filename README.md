@@ -125,4 +125,4 @@ export default MernStackDeveloper;
 <h1 align="center">
   <img height="40px" src="https://img.shields.io/badge/-My GitHub Contribution-faebee?&style=for-the-badge&logoWidth=50" />
 </h1>
-![Snake animation](https://github.com/kashishsaxena2804/kashishsaxena2804/blob/output/github-contribution-grid-snake.svg)
+
