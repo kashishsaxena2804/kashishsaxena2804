@@ -32,7 +32,7 @@ import React from 'react';
 
 class MernStackDeveloper extends React.Component {
   state = {
-    name: "Your Name 😄",
+    name: "Kashish Saxena 😄",
     role: "MERN Stack Developer 💻",
     love: "Responsive Web Designing 📱",
     location: "Somewhere on Earth 🌍",
