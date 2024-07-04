@@ -3,7 +3,7 @@
   <img height="40px" src="https://img.shields.io/badge/-Hello world!👋-faebee?&style=for-the-badge&logoWidth=50" />
 </h1>
 <div >
-  <div><img align="right" alt="Coding" width="250" height="150" src="mygif2.gif"></div>
+  
 
 <div align="left">
   <div align="center">
