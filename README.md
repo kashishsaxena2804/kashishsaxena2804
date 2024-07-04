@@ -13,7 +13,7 @@
 
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=333d7a%&size=32stlye=bold&&center=true&vCenter=true&width=600&height=50&pause=1000&vCenter=true&background=faebee&lines=Hi+there+I%27m+Kashish+Saxena+%F0%9F%91%8B;Fron-End+Developer;React+Developer;MERN-Stack+Developer;Problem+Solver;ML%20Enthusiast;" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=333d7a%&size=32stlye=bold&&center=true&vCenter=true&width=500&height=50&pause=1000&vCenter=true&background=faebee&lines=Hi+there+I%27m+Kashish+Saxena+%F0%9F%91%8B;Fron-End+Developer;React+Developer;MERN-Stack+Developer;Problem+Solver;ML%20Enthusiast;" alt="Headline" />
 
   <a href="https://www.linkedin.com/in/kashish-saxena/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
   <a href="https://x.com/KashishEk"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"  /></a>
