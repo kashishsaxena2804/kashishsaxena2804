@@ -47,20 +47,6 @@ class MernStackDeveloper extends React.Component {
   sayHi = () => {
     console.log("Thanks for dropping by, hope you find some of my work interesting.");
   };
-
-  render() {
-    const { name, role, love, location, languages } = this.state;
-    return (
-      <div>
-        <h1>{name}</h1>
-        <p>{role}</p>
-        <p>{love}</p>
-        <p>{location}</p>
-        <p>Languages: {languages.join(', ')}</p>
-        <button onClick={this.sayHi}>Say Hi</button>
-      </div>
-    );
-  }
 }
 
 export default MernStackDeveloper;
@@ -122,7 +108,4 @@ export default MernStackDeveloper;
 
 <img align="center" width="800px" alt="GIF" src="mygif.gif" />
 
-<h1 align="center">
-  <img height="40px" src="https://img.shields.io/badge/-My GitHub Contribution-faebee?&style=for-the-badge&logoWidth=50" />
-</h1>
 
