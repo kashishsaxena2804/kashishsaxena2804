@@ -109,6 +109,5 @@ export default MernStackDeveloper;
 <img align="center" width="800px" alt="GIF" src="mygif.gif" />
 
 
-![snake gif](https://github.com/kashishsaxena2803/kashishsaxena2803/blob/output/github-contribution-grid-snake.svg)
 
 
